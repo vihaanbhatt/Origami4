@@ -1,0 +1,82 @@
+
+
+
+
+
+
+h1 {
+    color:black;
+    font-family: sans-serif;
+    
+    
+}
+.header{
+    background-color:lightgray;
+    
+    justify-content:space-evenly;
+    font-family:monospace;
+}
+
+.grid{
+    background-color:white;
+    display:flex;
+    flex-wrap:wrap;
+
+    justify-content:space-between;
+    font-family: monospace;
+}
+h2{
+    color: lightcoral;
+    font-family: sans-serif;
+    
+}
+h3{
+    color: lightcoral;
+    font-family: sans-serif;
+   
+}
+h4{
+    color: lightcoral;
+    font-family: sans-serif;
+
+}
+h5{
+    color: lightcoral;
+    font-family: sans-serif
+}
+h6{
+    color: lightcoral;
+    font-family: sans-serif;
+}
+h4{
+    color: lightcoral;
+    font-family: sans-serif;
+  
+    
+}
+body{
+    background-color: white;
+
+}
+.grid img{
+
+    border:groove;
+    border-radius: 20px;
+    border-color: black;
+}
+.menu{display:flex;justify-content: space-between;background-color:white;font-size:  20px;}
+.deeva {background-color:lightpink;border-radius: 20px;}
+a:link{
+    color:white
+}
+a:visited{
+    color:white
+}
+.deeva:hover h4{opacity:1}
+.deeva:hover img{opacity:0.1}
+   
+
+
+
+
+
